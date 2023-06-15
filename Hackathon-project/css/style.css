@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: logo-font;
+    src: url(../font/Gagalin-Regular.otf);
+}
+@font-face {
+    font-family: text-font;
+    src: url(../font/norwester.otf);
+}
+@font-face {
+    font-family: text-font-2;
+    src: url(../font/FingerPaint-Regular.ttf);
+}
+
+body{
+    background-color: #050a30;
+}
